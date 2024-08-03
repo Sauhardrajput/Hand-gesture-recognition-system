@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Architecture](#architecture)
-- [Model Training] (#model-training)
+- [Model Training](#model-training)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
