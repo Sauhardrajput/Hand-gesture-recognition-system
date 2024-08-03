@@ -1,3 +1,4 @@
+
 # Hand Gesture Recognition System
 
 ## Table of Contents
@@ -123,5 +124,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or questions, please contact:
 
 - Name: Sauhard Rajput
-- Email: mailto:sauhardrajput1@gmail.com
+- Email: sauhardrajput1@gmail.com
 - GitHub: https://github.com/Sauhardrajput
